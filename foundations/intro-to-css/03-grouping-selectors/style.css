@@ -1,0 +1,13 @@
+.monochrome{
+    background-color: #000000;
+    color: #fff;
+}
+
+.vivid{
+    background-color: #f6f624;
+}
+
+.monochrome, .vivid{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
